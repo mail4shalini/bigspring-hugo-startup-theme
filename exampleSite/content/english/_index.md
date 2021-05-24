@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Let us solve your critical software <br> development challenges
+  title: Shalini Let us solve your critical software <br> development challenges
   image: images/banner-art.svg
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
